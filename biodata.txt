@@ -1,0 +1,15 @@
+NAMA LENGKAP: [Wildan Aditia]
+EMAIL: [willcorleone41@example.com]
+LOKASI: [Subang, Jawa barat]
+
+========== RINGKASAN ==========
+Backend Developer dengan pengalaman di Golang dan Laravel, serta memiliki kemampuan Web Pentesting untuk keamanan aplikasi.
+
+========== KEAHLIAN UTAMA ==========
+✓ Backend: Golang (Echo, Gin), Laravel, REST API
+✓ Security: Web Pentesting, OWASP, Burp Suite, Nmap
+✓ Database: MySQL, PostgreSQL
+✓ Tools: Git, Docker, Postman
+
+========== PENDIDIKAN ==========
+• [Teknik Informatika] - [Universitas Mandiri]
